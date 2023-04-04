@@ -1,0 +1,41 @@
+body{
+    background-color: lightblue;
+    color: turquoise;
+    font-family: sans-serif;
+    font-size: 17px;
+    font-weight: lighter;
+}
+
+
+/* *{
+    color: red;
+} */
+/* li, p, h1{
+    color: red;
+} */
+
+.skills{
+    color: blue;
+    font-size: 1.3em;
+}
+
+.parent{
+    border: solid red 5px;
+}
+.grandparent{
+    border: solid red 5px;
+}
+
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+#nav-links{
+    color: yellow;
+}
+
+ul{
+    padding: 10px 20px;
+    margin:  30px 30px;
+}
